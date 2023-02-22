@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alisafaa12
 - 👀 I’m interested in Intelligent Wireless Communication and Security
-- 🌱 I’m currently learning on how to develop and create optimisation solutions for advanced communication (such as 5G and 6G). Also, learing about Trustworthy and Explainable AI
+- 🌱 I’m currently learning on how to develop and create optimisation solutions for Cyber Security and advanced communication (such as 5G and 6G). Also, learing about Trustworthy and Explainable AI
 - 💞️ I’m looking to collaborate on any research around intelligent protocols for communication and secrity.
 - 📫 How to reach me email me on: Ali.Sadiq@ntu.ac.uk
 
